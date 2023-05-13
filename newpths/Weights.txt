@@ -1,0 +1,3 @@
+Dicotyledons - destructive weights ——r3det_wiouv2_r50_fpn_2x_20200616ninanjie
+Monocots - destructive weights ——r3det_wiouv2_r50_fpn_2x_20200616yumi
+Monocots - nondestructive weights ——r3det_wiouv2_r50_fpn_2x_20200616yumiwusun
