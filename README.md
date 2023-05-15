@@ -1,5 +1,5 @@
 # RotatedStomataNet
-A software of RotadetStomataNet:A deep rotated target detection network for directional stomata phenotype analysis.
+A software of RotadetStomataNet:A deep rotated object detection network for directional stomata phenotype analysis.
 
 [](C:\Users\Administrator\Desktop\figures\graphical_abstract.tif)
 
