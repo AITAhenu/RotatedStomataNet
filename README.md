@@ -22,7 +22,7 @@ We innovatively treat stomatal detection as rotating target detection and built 
 
 7.Download [RotatedStomataNet System](Link：https://pan.baidu.com/s/1VIVvRcBdcSI5YGW8xs4sug?pwd=h1m2  Extract code：h1m2)then put it in the 'RotatedStomataNet' folder;
 
-8.Download [Data](Link：https://pan.baidu.com/s/1FEphzoMhkw9wwApC8pg6Wg?pwd=95rs  Extract code：95rs) ;
+8.Download [Test Data](https://github.com/AITAhenu/RotatedStomataNet/blob/main/test-images) ;
 
 ## Usage of RotatedStomataNet
 
