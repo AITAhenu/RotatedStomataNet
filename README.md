@@ -22,7 +22,7 @@ We innovatively treat stomatal detection as rotating target detection and built 
 
 7.Download [RotatedStomataNet System](Link：https://pan.baidu.com/s/1VIVvRcBdcSI5YGW8xs4sug?pwd=h1m2  Extract code：h1m2)then put it in the 'RotatedStomataNet' folder;
 
-8.Download [Test Data](https://github.com/AITAhenu/RotatedStomataNet/blob/main/test-images) ;
+8.Download [Test Data](https://github.com/AITAhenu/RotatedStomataNet/blob/main/test-images) .Images A-1 .png-A-15 .png are destructive dicot Arabidopsis test set. Images M-1 .png-M-25 .png are destructive monocotyledonous maize test set. Images M-N-1 .png -- M-N-10 .png are non-destructive test set of monocotyledonous maize;
 
 ## Usage of RotatedStomataNet
 
